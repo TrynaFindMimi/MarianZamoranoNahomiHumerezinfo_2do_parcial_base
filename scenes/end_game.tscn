@@ -1,4 +1,4 @@
-[gd_scene load_steps=4 format=3 uid="uid://3ydti7c60ouq"]
+[gd_scene load_steps=4 format=3 uid="uid://bmdjxfxg2amwb"]
 
 [ext_resource type="Script" path="res://scripts/end_game.gd" id="1_8wiv7"]
 [ext_resource type="FontFile" uid="uid://b25431rxog83j" path="res://assets/fonts/Kenney Blocks.ttf" id="1_ock2p"]
